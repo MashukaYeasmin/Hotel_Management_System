@@ -1,7 +1,7 @@
 
-# --------------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------------
 # ........................................For Run This Project............................................
-# --------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-# ..............Second Step (python and pycharm install)......................
+# ..............Second Step (python and pycharm install).................
 
 =>Intall python latest version.
 =>Intall pycharm latest version.
@@ -22,7 +22,7 @@
 
 
 
-# .............Third Step (Package install)....................
+# .............Third Step (Package install)...............
 
 =>If you want to run in your pycharm you must select python as interpreter. 
 =>For selecting and installing python package goto file option then press setting.
@@ -35,7 +35,7 @@
 
 
 
-# ..............Fourth Step (Package Name And Details)..................
+# ..............Fourth Step (Package Name And Details)..............
 
 Babel	                         2.10.3	     2.10.3
 Jinja2	                         3.1.2	     3.1.2
