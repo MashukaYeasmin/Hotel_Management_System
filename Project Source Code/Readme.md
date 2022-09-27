@@ -9,7 +9,7 @@
 
 # =>Install Xampp software then go to "http://localhost/phpmyadmin" by a browser
 # =>Create A database named hotel
-# =>Import the Database.sql file into hotel database
+# =>Import the hms.sql file into hotel database
 
 
 
